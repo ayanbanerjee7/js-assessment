@@ -6,7 +6,7 @@
   "homepage": "http://rmurphey.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rmurphey/js-assessment.git"
+    "url": "git://github.com/ayanbanerjee7/js-assessment.git"
   },
   "engines": {
     "node": "0.12.x"
@@ -32,7 +32,7 @@
     "test": "mocha -R spec 'tests/app'"
   },
   "bugs": {
-    "url": "https://github.com/rmurphey/js-assessment/issues"
+    "url": "https://github.com/ayanbanerjee7/js-assessment/issues"
   },
   "private": true
 }
